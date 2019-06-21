@@ -124,7 +124,7 @@ class Kuaidiniao extends BaseTracker implements TrackerInterface
             '程光' => 'CG',
             '富腾达' => 'FTD',
             '中通快运' => 'ZTOKY',
-            '品骏快递' => 'PJ',
+            '品骏' => 'PJ',
             'EWE' => 'EWE',
             '特急送' => 'TJS',
             '承诺达' => 'CND',
